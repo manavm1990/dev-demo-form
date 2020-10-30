@@ -2,3 +2,9 @@ body {
   font-family: "Noto Sans JP", sans-serif;
   font-size: 10px;
 }
+
+label {
+  left: -9999px;
+  position: absolute;
+  top: -9999px;
+}
