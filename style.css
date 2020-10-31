@@ -1,3 +1,10 @@
+body,
+form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 body {
   font-family: "Noto Sans JP", sans-serif;
   font-size: 10px;
