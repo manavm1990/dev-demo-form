@@ -20,3 +20,11 @@ button,
 input {
   margin: 0.25rem 0;
 }
+
+button {
+  background-color: #48c774;
+  border-color: transparent;
+  border-radius: 4px;
+  color: white;
+  padding: 0.5rem;
+}
